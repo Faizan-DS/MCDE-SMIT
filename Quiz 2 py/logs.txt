@@ -1,0 +1,5 @@
+2026-11-01 | INFO | Application started
+2026-11-01 | ERROR | Database connection failed
+2026-11-02 | WARNING | Low memory
+2026-11-02 | ERROR | File not found
+2026-11-03 | ERROR | Invalid username

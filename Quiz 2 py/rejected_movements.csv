@@ -1,0 +1,7 @@
+row,sku,type,units,reason
+3,P01,OUT,9,not enough stock for this OUT movement
+6,X99,IN,5,unknown SKU
+7,P02,OUT,0,units must be greater than zero
+8,P03,IN,-2,units must be greater than zero
+9,P02,SELL,1,invalid movement type
+10,P03,IN,many,units is not a whole number

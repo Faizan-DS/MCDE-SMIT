@@ -1,0 +1,15 @@
+student_id,subject,marks
+101,Math,90
+101,Science,80
+101,English,85
+102,Math,70
+102,Science,62
+102,English,55
+103,Math,95
+103,Science,88
+103,English,91
+999,Math,50
+102,math,40
+103,Urdu,105
+101,Art,abc
+101,History,-3
